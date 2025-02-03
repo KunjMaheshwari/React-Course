@@ -31,7 +31,7 @@ function TodoList() {
     }
 
     function moveTaskDown(index) {
-
+        // Similarly.
     }
 
     return (
